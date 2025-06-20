@@ -1,0 +1,9 @@
+streamlit
+torch
+torch_geometric
+networkx
+requests
+nltk
+certifi
+numpy
+matplotlib
